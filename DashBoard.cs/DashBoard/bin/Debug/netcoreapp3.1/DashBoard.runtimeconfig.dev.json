@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\BMW\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\BMW\\.nuget\\packages"
+    ]
+  }
+}
